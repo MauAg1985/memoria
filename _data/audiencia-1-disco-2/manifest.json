@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://MauAg1985.github.io/memoria/annotations/audiencia-1-disco-2-canvas-1-condiciones-de-reclusi-n-clandestina--personas-detenidas-desaparecidas--centro-clandestino-de-detenci-n--victima-de-la-represi-n--represor--fiscal-general.json",
-            "label": {
-              "none": ["Condiciones de reclusión clandestina, personas detenidas desaparecidas, centro clandestino de detención, victima de la represión, represor, Fiscal General"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://MauAg1985.github.io/memoria/annotations/audiencia-1-disco-2-canvas-1-liturgia-formal-del-tribunal.json",
             "label": {
               "none": ["Liturgia formal del tribunal"]
